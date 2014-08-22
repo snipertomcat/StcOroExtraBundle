@@ -1,0 +1,8 @@
+{
+	"name": "stc/oro-extra-bundle",
+	"description": "Contains custom helper functionality to install and develop OroCRM applicaitons",
+	"require": {
+		"orocrm/platform": "*",
+		"orocrm/crm": "*"
+	}
+}
